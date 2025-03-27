@@ -1,4 +1,5 @@
 Dono do repositório: Wagner Cutrim Rabelo Junior
+HBr - Brasília
 
 📚 Objetivo do repositório: Projetos desenvolvidos no EmbarcaTech 2025
 
